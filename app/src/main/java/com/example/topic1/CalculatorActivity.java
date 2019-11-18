@@ -9,7 +9,8 @@ import android.widget.EditText;
 
 public class CalculatorActivity extends AppCompatActivity {
 
-    Button btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn0, btnadd, btnsub, btnmultiply, btndivide, btncalculate, btndecimal;
+    Button btn1, btn2, btn3, btn4, btn5, btn6,
+            btn7, btn8, btn9, btn0, btnadd, btnsub, btnmultiply, btndivide, btncalculate, btndecimal;
     Button btnclear;
     EditText txtnumber;
     float firstnumber, secondnumber;
